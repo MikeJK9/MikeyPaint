@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mjkon\\Drawing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|c:\\users\\mjkon\\drawing\\assets\\painttexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|solutionrelative:assets\\painttexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|C:\\Users\\Mjkon\\Drawing\\assets\\pickcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|solutionrelative:assets\\pickcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|C:\\Users\\Mjkon\\Drawing\\assets\\brushsizeslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|solutionrelative:assets\\brushsizeslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|C:\\Users\\Mjkon\\Drawing\\assets\\followcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|solutionrelative:assets\\followcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|C:\\Users\\Mjkon\\Drawing\\assets\\menubuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|solutionrelative:assets\\menubuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|C:\\Users\\Mjkon\\Drawing\\assets\\followsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|solutionrelative:assets\\followsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|C:\\Users\\Mjkon\\Drawing\\assets\\originator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|solutionrelative:assets\\originator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|C:\\Users\\Mjkon\\Drawing\\assets\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6507DCCB-0691-BDB7-FDA6-A5D0E546C5A7}|Assembly-CSharp.csproj|solutionrelative:assets\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FollowSize.cs",
+              "DocumentMoniker": "C:\\Users\\Mjkon\\Drawing\\Assets\\FollowSize.cs",
+              "RelativeDocumentMoniker": "Assets\\FollowSize.cs",
+              "ToolTip": "C:\\Users\\Mjkon\\Drawing\\Assets\\FollowSize.cs",
+              "RelativeToolTip": "Assets\\FollowSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T08:18:48.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrushSizeSlider.cs",
+              "DocumentMoniker": "C:\\Users\\Mjkon\\Drawing\\Assets\\BrushSizeSlider.cs",
+              "RelativeDocumentMoniker": "Assets\\BrushSizeSlider.cs",
+              "ToolTip": "C:\\Users\\Mjkon\\Drawing\\Assets\\BrushSizeSlider.cs",
+              "RelativeToolTip": "Assets\\BrushSizeSlider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T07:12:48.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FollowColor.cs",
+              "DocumentMoniker": "C:\\Users\\Mjkon\\Drawing\\Assets\\FollowColor.cs",
+              "RelativeDocumentMoniker": "Assets\\FollowColor.cs",
+              "ToolTip": "C:\\Users\\Mjkon\\Drawing\\Assets\\FollowColor.cs",
+              "RelativeToolTip": "Assets\\FollowColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T06:47:10.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuButtons.cs",
+              "DocumentMoniker": "C:\\Users\\Mjkon\\Drawing\\Assets\\MenuButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuButtons.cs",
+              "ToolTip": "C:\\Users\\Mjkon\\Drawing\\Assets\\MenuButtons.cs",
+              "RelativeToolTip": "Assets\\MenuButtons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T06:40:27.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PickColor.cs",
+              "DocumentMoniker": "C:\\Users\\Mjkon\\Drawing\\Assets\\PickColor.cs",
+              "RelativeDocumentMoniker": "Assets\\PickColor.cs",
+              "ToolTip": "C:\\Users\\Mjkon\\Drawing\\Assets\\PickColor.cs",
+              "RelativeToolTip": "Assets\\PickColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T06:19:45.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Caretaker.cs",
+              "DocumentMoniker": "C:\\Users\\Mjkon\\Drawing\\Assets\\Caretaker.cs",
+              "RelativeDocumentMoniker": "Assets\\Caretaker.cs",
+              "ToolTip": "C:\\Users\\Mjkon\\Drawing\\Assets\\Caretaker.cs",
+              "RelativeToolTip": "Assets\\Caretaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T06:09:37.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Originator.cs",
+              "DocumentMoniker": "C:\\Users\\Mjkon\\Drawing\\Assets\\Originator.cs",
+              "RelativeDocumentMoniker": "Assets\\Originator.cs",
+              "ToolTip": "C:\\Users\\Mjkon\\Drawing\\Assets\\Originator.cs",
+              "RelativeToolTip": "Assets\\Originator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T06:09:24.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaintTexture.cs",
+              "DocumentMoniker": "C:\\Users\\Mjkon\\Drawing\\Assets\\PaintTexture.cs",
+              "RelativeDocumentMoniker": "Assets\\PaintTexture.cs",
+              "ToolTip": "C:\\Users\\Mjkon\\Drawing\\Assets\\PaintTexture.cs",
+              "RelativeToolTip": "Assets\\PaintTexture.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T05:51:44.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
